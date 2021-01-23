@@ -21,5 +21,6 @@ class App < Sinatra::Base
     @word4 = params[:word4]
     @word5 = params[:word5]
     words
+  end
     
 end
